@@ -1,0 +1,1 @@
+open AimmyLauncher.exe first!
